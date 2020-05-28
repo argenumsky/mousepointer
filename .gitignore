@@ -1,0 +1,40 @@
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+logs/
+**.log
+
+# Eclipse
+.classpath
+.checkstyle
+.project
+.settings/
+
+# IntelliJ
+*.iml
+.idea/
+.vagrant/
+
+# VIM
+*.swp
+
+tmp/
+orca.iml
+
+db/
+bin/
+aegis.db.properties
+.fbExcludeFilterFile
+.pmd**
+.shutdown
+
+
+**/logs
+**/context
+**/.auth
+**/contexts
+**/updates
+
+**/.DS_Store
